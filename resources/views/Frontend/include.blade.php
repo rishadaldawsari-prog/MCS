@@ -53,8 +53,8 @@
                 <a href="#" class="nav-item nav-link">About</a>
                 <a href="#" class="nav-item nav-link">Servises</a>
                 <a href="#" class="nav-item nav-link">Team</a>
-                <a href="#" class="nav-item nav-link">Testimunial</a>
-                <a href="#" class="nav-item nav-link">Bloag</a>
+                <a href="#" class="nav-item nav-link">Research</a>
+                <!-- <a href="#" class="nav-item nav-link">Bloag</a> -->
                 <a href="#" class="nav-item nav-link">Contact</a>
             </div>
             
